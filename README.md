@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Unifan.png" alt="UNIFAN" width="120" />
+  <img src="assets/Unifan.png" alt="UNIFAN" height ="100%" />
 </p>
 
 <h1 align="center">Escola++</h1>
@@ -38,12 +38,12 @@ python main.py
 
 | Função | Nome |
 |--------|------|
-| Professor | _[Wild Barreto]_ |
-| Desenvolvimento | _[Rostand Bryan Lins de Andrade]_ |
-| Desenvolvimento | _[Erick Vicente Barreto]_ |
-| Desenvolvimento | _[Mauricélio França de Aragão]_ |
-| Desenvolvimento | _[Kayky Abade Motta]_ |
-| Desenvolvimento | _[Lucas Barbosa Barreto]_ |
+| Professor | _Wild Barreto_ |
+| Desenvolvimento | _Rostand Bryan Lins de Andrade_ |
+| Desenvolvimento | _Erick Vicente Barreto_ |
+| Desenvolvimento | _Mauricélio França de Aragão_ |
+| Desenvolvimento | _Kayky Abade Motta_ |
+| Desenvolvimento | _Lucas Barbosa Barreto_ |
 
 ---
 
